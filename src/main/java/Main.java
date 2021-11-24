@@ -12,7 +12,6 @@ public class Main {
             persons.printInfo();
         }
 
-
         System.out.println();
 
         int olderThan = 40;
